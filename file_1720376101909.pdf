@@ -1,0 +1,1 @@
+ )  `;    db.run(createTableQuery, (err) => {    if (err) {      console.error('Error creating 
