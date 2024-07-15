@@ -1,0 +1,1 @@
+Name(), 5,7)  await commonLib.moveClickThenWait("点击输入分支", 787, 531, 5, 7)  console.log("结束-------
