@@ -1,0 +1,1 @@
+Sync(filePath);    if (!fileStats.isFile()) {      throw new Error(`${filePath} is not a file`); 
